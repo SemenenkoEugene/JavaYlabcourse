@@ -7,17 +7,7 @@ package Week1;
 
 public class Task1 {
 
-    public static int a = 41;
-    public static int c = 11119;
-    public static int m = 11113;
-    public static int seed = 1;
-
-    public static int getNextRandom() {
-        seed = (a * seed + c) % m;
-        return seed;
-    }
-
-    public static void main(String[] args) {
+      public static void main(String[] args) {
 
         int[][] array = new int[5][5];
         System.out.println("--------------------------");
