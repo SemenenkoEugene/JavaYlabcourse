@@ -55,5 +55,4 @@ public class Task1 {
         System.out.println("Среднее значение в массиве " + avg);
         System.out.println("--------------------------");
     }
-
 }
