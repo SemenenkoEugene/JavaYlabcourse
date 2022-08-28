@@ -42,7 +42,7 @@ public class Task1 {
                 }
             }
         }
-        System.out.println("Минамальное число в массиве " + min);
+        System.out.println("Минимальное число в массиве " + min);
         System.out.println("--------------------------");
 
         int sum = 0;
